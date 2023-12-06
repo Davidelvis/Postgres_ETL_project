@@ -1,0 +1,13 @@
+# Editors
+.vscode/
+.idea/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.venv
+env/
+venv/
+venv.bak/
